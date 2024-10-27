@@ -1,0 +1,16 @@
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\bin\Debug\net8.0-windows\OnlyneChat.exe
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\bin\Debug\net8.0-windows\OnlyneChat.deps.json
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\bin\Debug\net8.0-windows\OnlyneChat.runtimeconfig.json
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\bin\Debug\net8.0-windows\OnlyneChat.dll
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\bin\Debug\net8.0-windows\OnlyneChat.pdb
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.Form1.resources
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.AssemblyInfo.cs
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.dll
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\refint\OnlyneChat.dll
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.pdb
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\OnlyneChat.genruntimeconfig.cache
+C:\Users\Artem\source\repos\OnlyneChat\OnlyneChat\obj\Debug\net8.0-windows\ref\OnlyneChat.dll
